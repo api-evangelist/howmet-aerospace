@@ -1,7 +1,12 @@
 aid: howmet-aerospace
-url: https://raw.githubusercontent.com/api-evangelist/howmet-aerospace/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/howmet-aerospace/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.howmet-aerospace.com
+description: >-
+  Howmet Aerospace is a global leader in advanced engineered solutions for the aerospace
+  and transportation industries, providing engine components, fastening systems, engineered
+  structures, and forged wheels.
