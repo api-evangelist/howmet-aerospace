@@ -4,7 +4,7 @@ description: >-
   Howmet Aerospace is a global leader in advanced engineered solutions for the
   aerospace and transportation industries, providing engine components,
   fastening systems, engineered structures, and forged wheels.
-type: Contract
+kind: contract
 position: Consuming
 access: 3rd-Party
 image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
