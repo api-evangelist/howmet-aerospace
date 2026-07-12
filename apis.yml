@@ -20,6 +20,8 @@ url: >-
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/howmet-aerospace-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/howmet-aerospace
   - type: Website
